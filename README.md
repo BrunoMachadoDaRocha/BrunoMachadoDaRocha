@@ -1,4 +1,6 @@
 ## Hi there 👋
+Olá tudo bem, me chamo Bruno Rocha, atualmente sou estudande do 3° periodo do curso de sistemas de informação.
+Já sou formado em técnico de informática para internet.
 
 <!--
 **BrunoMachadoDaRocha/BrunoMachadoDaRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
